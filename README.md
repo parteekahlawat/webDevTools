@@ -6,3 +6,4 @@ Some Usefull Web Development Tools -
 3. _Beautiful Colors_ - https://colorhunt.co/
 4. Favicon Generator - https://www.favicon.cc/
 5. _Fonts_ - https://fonts.google.com/ and to check if they work - https://www.cssfontstack.com/
+6. to convert code in one paragraph - https://www.minifier.org/
