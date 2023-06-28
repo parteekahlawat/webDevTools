@@ -7,6 +7,7 @@ Some Usefull Web Development Tools -
 4. Favicon Generator - https://www.favicon.cc/ - https://favicon.io/
 5. _Fonts_ - https://fonts.google.com/ and to check if they work - https://www.cssfontstack.com/
 6. to convert code in one paragraph - https://www.minifier.org/
+7. Cheat sheet (info about every tag of every lang) - https://overapi.com/
 
 
 Some Best Tools
@@ -19,5 +20,3 @@ ReactJS Tools -
 3. **React Leaflets for rendering maps in your project** - https://react-leaflet.js.org/
 4. **React-Redux-to make your react states global** - https://react-redux.js.org/
 
-
-Free APIs - 
