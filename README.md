@@ -7,7 +7,7 @@ Some Usefull Web Development Tools -
 4. Favicon Generator - https://www.favicon.cc/ - https://favicon.io/
 5. _Fonts_ - https://fonts.google.com/ and to check if they work - https://www.cssfontstack.com/
 6. to convert code in one paragraph - https://www.minifier.org/
-
+7. **Best animation(UI) for elements** - https://uiverse.io/ 
 
 ReactJS Tools -
 1. **React Router** - https://reactrouter.com/en/main
