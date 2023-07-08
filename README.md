@@ -1,7 +1,7 @@
 # webDevTools
 
 Some Usefull Web Development Tools - 
-1. **Css, Vector icons, Stickers and many more for adding to website** - https://www.flaticon.com/
+1. **Css, Vector icons, Stickers and many more for adding to website** - https://www.flaticon.com/ and https://css.gg/
 2. **Free FrontEnd Comps code** - https://freefrontend.com/
 3. _Beautiful Colors_ - https://colorhunt.co/
 4. Favicon Generator - https://www.favicon.cc/ - https://favicon.io/
