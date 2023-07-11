@@ -8,6 +8,7 @@ Some Usefull Web Development Tools -
 5. _Fonts_ - https://fonts.google.com/ and to check if they work - https://www.cssfontstack.com/
 6. to convert code in one paragraph - https://www.minifier.org/
 7. Cheat sheet (info about every tag of every lang) - https://overapi.com/
+8. Random Pictures - https://picsum.photos/
 
 
 Some Best Tools
