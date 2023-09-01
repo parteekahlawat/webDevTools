@@ -15,6 +15,7 @@ Some Best Tools
 1. **Best animation(UI) for elements** - https://uiverse.io/
 2. **Predefined pages** - https://www.web-leb.com/code
 3. **Some 3D Desins and animations** - https://spline.design/
+4. **Loading animations** - https://uiball.com/loaders/
 
 ReactJS Tools -
 1. **React Router** - https://reactrouter.com/en/main
